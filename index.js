@@ -8,6 +8,7 @@ import * as reportGetters from './reports/reportGetters.js';
 import * as statusReport from './reports/statusReport.js';
 import * as assetCountReport from './reports/assetCountReport.js';
 import * as saReport from './reports/saReport.js';
+import * as saReportByAsset from './reports/saReportByAsset.js';
 import * as assetCountReportByEmass from './reports/assetCountReportByEmass.js';
 import * as saReportByLabelAndEmass from './reports/saReportByLabelAndEmass.js';
  
